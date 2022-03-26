@@ -1,0 +1,16 @@
+openapi: 3.0.3
+info:
+  title: Message Api
+  description: Message Apiスキーマ
+  version: 1.0.0
+tags:
+  - name: user
+    description: ユーザー関係
+  - name: auth
+    description: 認証関係
+  - name: twitter
+    description: twitter関係
+  - name: dm
+    description: dm関係
+  - name: line
+    description: line関係
